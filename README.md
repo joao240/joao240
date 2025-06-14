@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Victor;Tenho+17+anos;Sou+do+Brasil;Curso+Desenvolvimento+de+Sistemas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao240&show_icons=true&bg_color=00000000&ring_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&include_all_commits=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=joao240&bg_color=00000000&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao24&show_icons=true&bg_color=00000000&ring_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&include_all_commits=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=joao24&bg_color=00000000&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 <br>
 
