@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Victor;Tenho+17+anos;Sou+do+Brasil;Curso+Desenvolvimento+de+Sistemas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Victor;Tenho+18+anos;Sou+do+Brasil;Curso+Desenvolvimento+de+Sistemas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao240&show_icons=true&bg_color=00000000&ring_color=1E90FF&text_color=FFFFFF&title_color=1E90FF&icon_color=1E90FF&include_all_commits=true" /> 
@@ -9,11 +9,9 @@
 <br>
 
 <div align="center"> 
-
-<a href="[https://www.linkedin.com/in/joaovictor-dev/](https://www.linkedin.com/in/jo%C3%A3o-victor-saraiva-a4ba92257/)" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-saraiva-a4ba92257/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
 </a>
-
 </div>
 
 ---
@@ -29,15 +27,14 @@
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![APIs](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-
 ---
 
 ### 🚀 Sobre mim:
 
-- 🤖 Desenvolvedor Python com foco em automações e sistemas para empresas
-- 🧠 Estudante técnico em Desenvolvimento de Sistemas
-- 🧩 Crio interfaces gráficas com PyQt5, sistemas de nota fiscal, consultas e dashboards
-- 📊 Faço integração com bancos de dados e APIs
-- 📫 Contato: joaovictorsaraivaaraujo@gmail.com
+- 🤖 Desenvolvedor Python com foco em automações e sistemas para empresas  
+- 🧠 Estudante técnico em Desenvolvimento de Sistemas  
+- 🧩 Crio interfaces gráficas com PyQt5, sistemas de nota fiscal, consultas e dashboards  
+- 📊 Faço integração com bancos de dados e APIs  
+- 📫 Contato: joaovictorsaraivaaraujo@gmail.com  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
