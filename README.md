@@ -33,7 +33,6 @@
 
 - 🤖 Desenvolvedor Python com foco em automações e sistemas para empresas  
 - 🧠 Estudante técnico em Desenvolvimento de Sistemas  
-- 🧩 Crio interfaces gráficas com PyQt5, sistemas de nota fiscal, consultas e dashboards  
 - 📊 Faço integração com bancos de dados e APIs  
 - 📫 Contato: joaovictorsaraivaaraujo@gmail.com  
 
